@@ -2,7 +2,7 @@ const fs = require("fs");
 const pdf = require("pdf-parse");
 const nlp = require("compromise");
 
-const path = "./pdf/su.pdf";
+const path = "./pdf/tienganh.pdf";
 
 function render_page(pageData) {
   let render_options = {
@@ -37,14 +37,43 @@ const scanText = () => {
   });
 };
 
-const handleText = str => {
-  const questionList = str.split(/Question|Câu[ ]/);
+// const handleText = str => {
+//   const questionList = str.split(/Question|Câu[ ]\d{1,3}[.|:]/);
+//   let s = "";
 
-  questionList.map(text => {
-    const content = text.split(/[A-Z][.][ ]/);
-    console.log("Question:", content[0], "\n");
-    content.slice(1).map((cont, index) => {
-      console.log(`Answer ${String.fromCharCode(index + 65)}:`, cont);
+//   questionList.map((text, index) => {
+//     const content = text.split(/[A-Z][.][ ]/);
+//     console.log("Question", index, content[0], "\n");
+//     s += "Question" + ' ' + index + ':' + content[0] + "\n";
+//     content.slice(1).map((cont, index) => {
+//       console.log(`Answer ${String.fromCharCode(index + 65)}:`, cont);
+//       s += `Answer ${String.fromCharCode(index + 65)}:` + cont;
+//     });
+//     console.log("\n");
+//     s += "\n";
+//   });
+//   fs.writeFileSync("./data.json", s);
+// };
+
+const handleText = str => {
+  const questionList = str.split("Mark the letter A, B, C or D ");
+
+  questionList.map((text, index) => {
+    const group = text.split(/(?:Question[ ]|Câu[ ])/);
+    console.log(
+      "Type: Mark the letter A, B, C or D ",
+      group[0].normalize("NFKD"),
+      "\n"
+    );
+    group.slice(1).map((cont, index) => {
+      const content = cont.split(/[A-Z][.][ ]/);
+      console.log(`Question: ${content[0].normalize("NFKD")}`);
+      content.slice(1).map((ans, index) => {
+        console.log(
+          `Answer ${String.fromCharCode(index + 65)}:`,
+          ans.normalize("NFKD")
+        );
+      });
     });
     console.log("\n");
   });
