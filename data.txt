@@ -1,0 +1,313 @@
+Question: 1:  [0H5-1]Tìm câu sai: 
+Answer A: Tính chất hóa học cơ bản của các halogen là tính oxi hóa. 
+Answer B: Khuynh hướng hóa học chung của các halogen là nhận thêm 1e vào lớp ngoài cùng. 
+Answer C: Thành phần và tính chất các hợp chất của các halogen là tương tự nhau. 
+Answer D: Hợp chất có oxi của halogen chỉ có một công thức HXO (X là halogen). 
+Hint:  Hợp chất có oxi của halogen ngoài công thức HXO còn có công thức HXO2, HXO3, HXO4.  
+Question: 2:  [0H5-1]Theo dãy: HF – HCl – HBr – HI thì 
+Answer A: tính axit giảm, tính khử tăng. 
+Answer B: tính axit tăng, tính khử tăng. 
+Answer C: tính axit tăng, tính khử giảm. 
+Answer D: tính axit giảm, tính khử giảm. 
+Hint:  Dãy các axit HX từ HF đến HI thì tính khử và tính axit tăng dần.  
+Question: 3:  [0H5-1]Kim loại nào sau đây khi tác dụng với Clo và axit HCl đều tạo ra cùng một loại hợp chất 
+Answer A: Fe. 
+Answer B: Cu. 
+Answer C: Mg. 
+Answer D: Ag. 
+Hint:  Kim loại phản ứng với HCl và Cl2 tạo cùng một loại hợp chất → Kim loại hóa trị không đổi.  
+Question: 4:  [0H5-1]Chọn phương trình phản ứng đúng: 
+Answer A: Fe + 2HCl → FeCl2 + H2. 
+Answer B: 2Fe + 6HCl → 2FeCl3 + 3H2. 
+Answer C: 3Fe + 8HCl → FeCl2 + FeCl3 + 4H2. 
+Answer D: Cu + 2HCl → CuCl2 + H2. 
+Hint:  Cu không phản ứng với axit HCl; Fe phản ứng với HCl tạo FeCl2.  
+Question: 5:  [0H5-1]Để nhận biết các dung dịch sau đây chứa trong các lọ mất nhãn: NaCl, NaNO3, BaCl2, Ba(NO3)2. Người ta dùng thuốc thử nào sau đây 
+Answer A: Na2SO4 và NaOH. 
+Answer B: AgNO3 và Na2SO4. 
+Answer C: H2SO4 và Na2CO3. 
+Answer D: Na2CO3 và HNO3. 
+Hint:  Trích mẫu thử rồi cho AgNO3 vào lần lượt các dung dịch - Nhóm 1: có kết tủa trắng xuất hiện là: NaCl, BaCl2. - Nhóm 2: không có hiện tượng là: NaNO3, Ba(NO3)2. Ở mỗi nhóm dùng Na2SO4 để phân biệt - Có kết tủa trắng xuất hiện là: BaCl2. - Có kết tủa trắng xuất hiện là: Ba(NO3)2  
+Question: 6:  [0H5-1]Có 3 lọ mất nhãn chứa 3 chất riêng biệt HCl, NaCl, HNO3. Chọn hóa chất cần dùng và thứ tự thực hiện để nhận biết các chất đó 
+Answer A: Dùng AgNO3 trước và giấy quỳ sau. 
+Answer B: Chỉ dùng AgNO3. 
+Answer C: Dùng giấy quỳ trước, AgNO3 sau. 
+Answer D: A và C đều đúng. 
+Hint:  -  
+Question: A: Dùng AgNO3: HCl, NaCl phản ứng tạo kết tủa AgCl; HNO3 không phản ứng Cho quỳ tím vào (HCl, NaCl) thì HCl làm quỳ tím hóa đỏ, còn NaCl không làm đổi màu quỳ tím. - 
+Question: C Dùng quỳ tím trước nhận biết được HCl, HNO3 do làm đổi màu quỳ tím sang đỏ, còn NaCl không làm đổi màu quỳ tím Dùng AgNO3 sau để nhận biết HCl từ 2 lọ HCl, HNO3 do HCl tạo kết tủa AgCl còn HNO3 thì không 
+Question: 7:  [0H5-1]Trong những phản ứng sau đây sinh ra khí hiđroclorua 
+Answer A: Dẫn khí clo vào nước. 
+Answer B: Đốt khí hiđro trong khí clo. 
+Answer C: Điện phân dung dịch natri clorua trong nước. 
+Answer D: Cho dung dịch bạc nitrat tác dụng với dung dịch natri clorua. 
+Hint:  A sai, sinh ra dung dịch có HCl chứ không phải khí HCl Cl2 + H2O  HCl + HClO B đúng: H2 + Cl2 → HCl C sai: NaCl + H2O → NaOH + H2 + Cl2 D sai: AgNO3 + NaCl → AgCl + NaNO3  
+Question: 8:  [0H5-1]Trong phản ứng: Cl2 + 2NaOH → NaCl + NaClO + H2O. Phát biểu nào sau đây đúng với các phân tử Clo 
+Answer A: Bị oxi hóa. 
+Answer B: Bị khử. 
+Answer C: không bị oxi hóa, không bị khử. 
+Answer D: Vừa oxi hóa, vừa khử. 
+Hint:  Cl2 vừa có tính oxi hóa vừa có tính khử Cl2(Cl0) → NaCl(Cl-1) + NaClO(Cl+1)  
+Question: 9:  [0H5-1]Trong phản ứng: Cl2 + 2KOH → KCl + KclO + H2O. Clo đóng vai trò nào 
+Answer A: Là chất khử. 
+Answer B: Là chất oxi hóa. 
+Answer C: không là chất oxi hóa, không là chất khử. 
+Answer D: vừa là chất oxi hóa, vừa là chất khử. 
+Hint:  Cl2 vừa có tính oxi hóa vừa có tính khử Cl2(Cl0) → NaCl(Cl-1) + NaClO(Cl+1)  
+Question: 10:  [0H5-1]Axit cloric có công thức nào sau đây? 
+Answer A: HClO4. 
+Answer B: HClO3. 
+Answer C: HClO2. 
+Answer D: HClO 
+Hint:  HClO: Axit hipoclorơ. HClO2: Axit clorơ. HClO3: Axit cloric. HClO4: Axit pecloric.  
+Question: 11:  [0H5-1]Axit hipoclorơ có công thức nào sau đây? 
+Answer A: HClO4. 
+Answer B: HClO3. 
+Answer C: HClO2. 
+Answer D: HClO 
+Hint:  HClO: Axit hipoclorơ. HClO2: Axit clorơ. HClO3: Axit cloric. HClO4: Axit pecloric.  
+Question: 12:  [0H5-1]Số oxi hóa của Clo trong axit pecloric là: 
+Answer A: +3. 
+Answer B: +5. 
+Answer C: +7. 
+Answer D: -1. 
+Hint:  Axit pecloric: HClO4: Cl+7.  
+Question: 13:  [0H5-1]Nước Gia – ven được điều chế bằng cách nào sau đây: 
+Answer A: Cho clo tác dụng với nước. 
+Answer B: Cho clo tác dụng với dd NaOH loãng nguội. 
+Answer C: Cho clo tác dụng với Ca(OH)2. 
+Answer D: Cho clo tác dụng với KOH. 
+Hint:  Thành phần chính của nước Gia-ven là NaCl và NaClO được điều chế bằng cách cho Cl2 tác dụng với dung dịch NaOH loãng nguội.  
+Question: 14:  [0H5-1]Clorua vôi có công thức là: 
+Answer A: CaOCl2. 
+Answer B: CaClO2. 
+Answer C: CaCl2. 
+Answer D: Ca(OCl)2. 
+Hint:  Clorua vôi là muối hỗn tạp có hợp chất là cation Ca2+ và 2 gốc axit Cl- và ClO- có công thức Ca(OCl)2.  
+Question: 15:  [0H5-1]Dùng muối Iốt hàng ngày để chống bệnh bướu cổ. Muối Iốt ở đây là: 
+Answer A: I2. 
+Answer B: NaCl và I2. 
+Answer C: NaI và NaCl. 
+Answer D: NaI. 
+Hint:  Muối iốt hàng ngày cung cấp iot cho có thể dưới dạng I-, trong đó có NaI và NaCl.  
+Question: 16:  [0H5-1]Để điều chế khí HCl trong phòng thí nghiệm, người ta chủ yếu sử dụng phương pháp nào sau đây 
+Answer A: phương pháp sunfat. 
+Answer B: phương pháp tổng hợp. 
+Answer C: clo hóa các chất hữu cơ. 
+Answer D: phương pháp khác. 
+Hint:  Trong phòng thí nghiệm, người ta điều chế HCl chủ yếu bằng phương pháp sunfat NaCl + H2SO4 → HCl + NaHSO4(Na2SO4)  
+Question: 17:  [0H5-1]Phương pháp điều chế nước Gia-ven trong công nghiệp là 
+Answer A: điện phân dung dịch muối ăn (không có màng ngăn). 
+Answer B: điện phân dung dịch muối ăn (có màng ngăn). 
+Answer C: cho clo tác dụng với dung dịch NaOH loãng, nguội. 
+Answer D: cho clo tác dụng với dung dịch NaOH loãng, nóng. 
+Hint:  2NaCl + H2O  NaCl + NaClO + H2  
+Question: 18:  [0H5-1]Kim loại nào sau đây tác dụng với dung dịch HCl loãng và tác dụng với khí Clo cho cùng loại muối Clorua kim loại 
+Answer A: Fe. 
+Answer B: Zn. 
+Answer C: Cu. 
+Answer D: Ag. 
+Hint:  Cu và Ag không phản ứng với axit HCl. Kim loại phản ứng với HCl và Cl2 thu được cùng một loại muối → kim loại hóa trị không đổi. Suy ra kim loại là Zn.  
+Question: 19:  [0H5-1]Đặc điểm nào dưới đây không phải là đặc điểm chung của các nguyên tố nhóm halogen (F, Cl, Br, I) 
+Answer A: Nguyên tử chỉ có khả năng thu thêm 1e. 
+Answer B: Tạo ra hợp chất liên kết cộng hóa trị có cực với hiđro. 
+Answer C: Có số oxi hóa -1 trong mọi hợp chất. 
+Answer D: Lớp e ngoài cùng của nguyên tử có 7e. 
+Hint:  Cl, Br, I ngoài số oxi hóa -1 còn các số oxi hóa +1, +3, +5, +7 trong các hợp chất. dpkmn¾¾¾® 
+Question: 20:  [0H5-1]Đặc điểm nào dưới đây là đặc điểm chung của các đơn chất Halogen (F2, Cl2, Br2, I2) 
+Answer A: Ở điều kiện thường là chất khí. 
+Answer B: Vừa có tính oxi hóa, vừa có tính khử. 
+Answer C: Có tính oxi hóa mạnh. 
+Answer D: Tác dụng mạnh với nước. 
+Hint:  Nguyên tử của các nguyên tố nhóm halogen có 7 e ở lớp ngoài cùng, dễ dàng nhận thêm 1 electron để đạt trạng thái cấu hình khí hiếm bền vững → Có tính oxi hóa mạnh.  
+Question: 21:  [0H5-1]Cấu hình electron lớp ngoài cùng của nhóm Halogen là: 
+Answer A: ns2np1. 
+Answer B: ns2np5. 
+Answer C: ns1. 
+Answer D: ns2np6nd1. 
+Hint:  Nguyên tử nguyên tố nhóm halogen có 7 electron ở lớp ngoài cùng.  
+Question: 22:  [0H5-1]Trong các halogen, clo là nguyên tố 
+Answer A: có độ âm điện lớn nhất. 
+Answer B: có tính phi kim mạnh nhất. 
+Answer C: tồn tại trong vỏ trái đất (dạng hợp chất) với trữ lượng lớn nhất. 
+Answer D: có số oxi hóa -1 trong mọi hợp chất. 
+Hint:  A, B, D sai, đó đều là các tính chất của flo. C đúng, do Clo ở dạng muối NaCl, có rất nhiều trong nước biển.  
+Question: 23:  [0H5-1]Phát biểu nào sau đây là đúng 
+Answer A: Các halogen đều không phải là những phi kim điển hình. 
+Answer B: Tất cả các halogen đều rất độc, tan được trong benzen. 
+Answer C: Từ flo đến atitan nhiệt độ nóng chảy và nhiệt độ sôi tăng dần. 
+Answer D: Trong phản ứng với nước, X2 đóng vai trò vừa là chất oxi hóa vừa là chất khử. 
+Hint:  Các halogen là các phi kim điển hình → A sai. Khả năng tan của flo trong benzen rất ít, nếu tiếp xúc xẩy ra phản ứng oxi hóa khử → B sai. F2, Cl2 là thể khí, Br2 thể lỏng và I2 thể rắn → C đúng. Flo đốt cháy nước tạo HF và O2, F2 chỉ đóng vai trò là chất oxi hóa → D sai.  
+Question: 24:  [0H5-1]Khả năng hoạt động hóa học của các đơn chất halogen là 
+Answer A: mạnh. 
+Answer B: trung bình. 
+Answer C: kém. 
+Answer D: rất kém. 
+Hint:  Nguyên tử nguyên tố nhóm halogen có 7 eclectron ở lớp ngoài cùng, dễ thu thêm 1 electron để đạt trạng thái cấu hình bền vững của khí hiếm → khả năng hoạt động của các đơn chất halogen là mạnh.  
+Question: 25:  [0H5-1]Nguyên tố nào sau đây trong tất cả các hợp chất chỉ có số oxi hóa -1? 
+Answer A: Clo. 
+Answer B: Flo. 
+Answer C: Brom. 
+Answer D: Cả A, B, 
+Answer E: 
+Hint:  Flo có số oxi hóa -1 và hóa trị 1 trong mọi hợp chất.  
+Question: 26:  [0H5-1]Chỉ ra nội dung sai: 
+Answer A: Trong hợp chất, halogen luôn có số oxi hóa -1. 
+Answer B: Tính chất hóa học cơ bản của các halogen là tính oxi hóa. 
+Answer C: Phân tử halogen X2 dễ bị tách thành 2 nguyên tử X. 
+Answer D: Các nguyên tố halogen có độ âm điện tương đối lớn. 
+Hint:  Cl, Br, I ngoài số oxi hóa -1 còn các số oxi hóa +1, +3, +5, +7 trong các hợp chất.  
+Question: 27:  [0H5-1]Các nguyên tử flo, clo, brom, iot, đều có: 
+Answer A: cấu hình electron nguyên tử giống nhau. 
+Answer B: 7 electron độc thân. 
+Answer C: lớp ngoài cùng có phân lớp d còn trống. 
+Answer D: các electron lớp ngoài cùng ở phân lớp s và p. Hướng dẫn giải 
+Answer E: sai. Số hiệu nguyên tử khác nhau → Cấu hình e khác nhau. 
+Answer F: Sai. Có 1e độc thân. 
+Answer G: Sai. Flo không có phân lớp d. 
+Answer H: Đúng. Cấu hình e lớp ngoài cùng là ns2np5. 
+Question: 28:  [0H5-1]Trong các phản ứng hóa học, để chuyển thành anion, nguyên tử Clo đã nhận hay nhường bao nhiêu e 
+Answer A: Nhận thêm 1e. 
+Answer B: Nhận thêm 1 proton. 
+Answer C: Nhường đi 1e. 
+Answer D: Nhường đi 1 nơtron. 
+Hint:  Để chuyển thành anion (mang điện tích âm) thì nguyên tử Clo nhận thêm 1 electron.  
+Question: 29:  [0H5-1]Sợi dây đồng nóng đỏ cháy sáng trong bình chứa khí X. X là khí nào sau đây 
+Answer A: Cacbon (II) oxit. 
+Answer B: Clo. 
+Answer C: Hiđro. 
+Answer D: Nitơ. Hướng dẫn giải Chọn 
+Answer E: Cu + Cl2 → CuCl2. Chú ý: N2 không phản ứng với Cu. H2; CO là các chất khử mạnh chỉ phản ứng với CuO. 
+Question: 30:  [0H5-1]Công thức hóa học của khoáng chất cacnalit là: 
+Answer A: KCl.MnCl2.6H2O. 
+Answer B: NaCl.MgCl2.6H2O. 
+Answer C: KCl.CaCl2.6H2O. 
+Answer D: NaCl.CaCl2.6H2O. 
+Hint:  Quặng cacnalit: KCl.MgCl2.6H2O Quặng xivinit: NaCl.KCl.  
+Question: 31:  [0H5-1]Công thức hóa học của khoáng chất xinvinit là: 
+Answer A: 3NaF.AlF3. 
+Answer B: NaCl.KCl. 
+Answer C: NaCl.MgCl2. 
+Answer D: KCl.MgCl2. 
+Hint:  Quặng cacnalit: KCl.MnCl2.6H2O Quặng xivinit: NaCl.KCl.  
+Question: 32:  [0H5-1] PTHH nào sau đây biểu diễn đúng phản ứng của dây sắt nóng đỏ cháy trong khí Clo 
+Answer A: Fe + Cl2 → FeCl2. 
+Answer B: 2Fe + 3Cl2 → 2FeCl3. 
+Answer C: 3Fe + 4Cl2 → FeCl2 + 2FeCl3. 
+Answer D: Sắt không tác dụng với Clo. Hướng dẫn giải 2Fe + 3Cl2 → 2FeCl3. Chú ý: Không xảy ra phản ứng FeCl3 + Fe → FeCl2 vì phản ứng chỉ xảy ra trong dung dịch → Loại A và 
+Answer E: 
+Question: 33:  [0H5-1] 
+Question: nào diễn tả đúng bản chất của phản ứng điều chế clo bằng phương pháp điện phân dung dịch natri clorua. 
+Answer A: Ở cực dương xảy ra sự khử ion Cl- thành khí Cl2, ở cực âm xảy ra sự oxi hóa các phân tử H2O sinh ra khí H2. 
+Answer B: Ở cực âm xảy ra sự oxi hóa ion Cl- thành khí Cl2, ở cực dương xảy ra sự oxi hóa các phân tử H2O sinh ra khí H2. 
+Answer C: Ở cực âm xảy ra sự khử ion Cl- thành khí Cl2, ở cực dương xảy ra sự khử các phân tử H2O sinh ra khí H2. 
+Answer D: Ở cực dương xảy ra sự oxi hóa ion Cl- thành khí Cl2, ở cực âm xảy ra sự khử các phân tử H2O sinh ra khí H2. 
+Hint:  Các quá trình xảy ra ở các điện cực khi điện phân dung dịch NaCl: Anot (+): 2Cl-1 -2e → Cl2 || Catot (-) 2H2O + 2e → 2OH- + H2. → Ở cực dương xảy ra sự oxi hóa ion Cl-, cực âm xảy ra sự khử H2O.  
+Question: 34:  [0H5-1]Trong các nguyên tố dưới đây, nguyên tử của nguyên tố nào có xu hướng kết hợp với electron mạnh nhất 
+Answer A: Flo. 
+Answer B: Clo. 
+Answer C: Brom. 
+Answer D: Iot. 
+Hint:  Flo là phi kim mạnh nhất → Xu hướng kết hợp electron mạnh nhất.  
+Question: 35:  [0H5-1]Dẫn khí clo đi vào dung dịch FeCl2, nhận thấy dung dịch từ màu lục nhạt chuyển sang màu nâu. Phản ứng này thuộc loại: 
+Answer A: Phản ứng thế. 
+Answer B: Phản ứng phân hủy. 
+Answer C: Phản ứng trung hòa. 
+Answer D: Phản ứng oxi hóa – khử. 
+Hint:  Dẫn khí Cl2 qua dung dịch FeCl2 xảy ra phản ứng: FeCl2 + ½ Cl2 → FeCl3. Đây là phản ứng oxi hóa khử, trong đó chất khử là FeCl2- chất oxi hóa là Cl2.  
+Question: 36:  [0H5-1]Cho phản ứng: 2FeCl2 (dd) + Cl2 (k) → 2FeCl3 (dd). Trong phản ứng này xảy ra: 
+Answer A: Ion Fe2+ bị khử và nguyên tử Cl bị oxi hóa. 
+Answer B: Ion Fe3+ bị khử và ion Cl- bị oxi hóa. 
+Answer C: Ion Fe2+ bị oxi hóa và nguyên tử Cl bị khử. 
+Answer D: Ion Fe3+ bị oxi hóa và ion Cl- bị khử. 
+Hint:  Fe+2Cl2 + Cl02 → Fe+3Cl3- → Ion Fe+2 bị oxi hóa và nguyên tử Cl bị khử.  
+Question: 37:  [0H5-1]Phản ứng nào sau đây không điều chế được khí clo 
+Answer A: Dùng MnO2 oxi hóa HCl. 
+Answer B: Dùng KMnO4 oxi hóa HCl. 
+Answer C: Dùng K2SO4 oxi hóa HCl. 
+Answer D: Dùng K2Cr2O7 oxi hóa HCl. 
+Hint:  Nguyên tắc điều chế Cl2 trong phòng thí nghiệm: oxi hóa Cl- thành Cl2 bằng các tác nhân oxi hóa mạnh như MnO2; KMnO4; K2Cr2O7...  
+Question: 38:  [0H5-1]Chọn phản ứng viết sai: 
+Answer A: 2NaBr (dd) + Cl2 → 2NaCl + Br2. 
+Answer B: 2NaI (dd) + Br2 → 2NaBr + I2. 
+Answer C: 2NaI (dd) + Cl2 → 2NaCl + I2. 
+Answer D: 2NaCl (dd) + F2 → 2NaF + Cl2. 
+Hint:  Cho F2 vào dung dịch NaCl thì F2 đốt cháy H2O → D sai.  
+Question: 39:  [0H5-1]Phản ứng nào dưới đây không thể xảy ra? 
+Answer A: H2Ohơi nóng + F2 → 
+Answer B: KBrdd + Cl2 → 
+Answer C: NaIdd + Br2 → 
+Answer D: KBrdd + I2 → 
+Hint:  I2 có tính oxi hóa yếu hơn Br2 → Không đẩy được ion Br ra khỏi dung dịch muối.  
+Question: 40:  [0H5-1]Chất nào trong các chất dưới đây có thể nhận ngay được bột gạo 
+Answer A: Dung dịch HCl. 
+Answer B: Dung dịch H2SO4. 
+Answer C: Dung dịch Br2. 
+Answer D: Dung dịch I2. 
+Hint:  Thành phần của bột gạo là tinh bột ((C6H10O5)n) Tinh bột có cấu trúc xoắn lò xo, có thể hấp thụ được I2 làm tinh bột chuyển thành màu xanh.  
+Question: 41:  [0H5-1]Giải thích tại sao người ta điều chế được nước clo mà không điều chế được nước flo. Hãy chọn lí do đúng. 
+Answer A: Vì flo không tác dụng với nước. 
+Answer B: Vì flo có thể tan trong nước. 
+Answer C: Vì flo có tính oxi hóa mạnh hơn clo rất nhiều, có thể bốc cháy khi tác dụng với nước. 
+Answer D: Vì một lý do khác. 
+Hint:  Do F2 có tính oxi hóa mạnh hơn Cl2 rất nhiều và có khả năng đốt cháy H2O → Người ta không điều chế nước F2.  
+Question: 42:  [0H5-1]Các câu sau, câu nào đúng 
+Answer A: Các đơn chất halogen F2, Cl2, Br2, I2 đều oxi hóa được nước. 
+Answer B: Flo có tính oxi hóa mạnh nhất trong các phi kim nên oxi hóa được tất cả các kim loại phản ứng với tất cả các kim loại đều xảy ra dễ dàng. 
+Answer C: Tất cả các halogen đều có đồng vị bền trong tự nhiên. 
+Answer D: Trong các phản ứng hóa học flo không thể hiện tính khử. 
+Hint:  D đúng, do Flo chỉ có 1 số oxi hóa duy nhất là -1 nên trong các phản ứng hóa học, flo chỉ thể hiện tính oxi hóa. A sai, chỉ có flo oxi hóa được nước. B sai, Flo tác dụng với các kim loại yếu vẫn khó khăn. C sai, Atatin không có đồng vị bền trong tự nhiên.  
+Question: 43:  [0H5-1]Khi đun nóng, iot rắn biến thành hơi, không qua trạng thái lỏng. Hiện tượng này được gọi là 
+Answer A: sự chuyển trạng thái. 
+Answer B: sự bay hơi. 
+Answer C: sự thăng hoa. 
+Answer D: sự phân hủy. 
+Hint:  Hiện tượng I2 khi đun nóng chuyển từ thể rắn sang thể hơi mà không qua trạng thái lỏng gọi là sự thăng hoa. → Nhớ: AlCl3 và CO2 rắn cũng có hiện tượng thăng hoa giống như I2.  
+Question: 44:  [0H5-1]Cho phản ứng: SO2 + Br2 + 2H2O → H2SO4 + 2HBr. Trong phản ứng trên, brom đóng vai trò 
+Answer A: chất khử. 
+Answer B: chất oxi hóa. 
+Answer C: vừa là chất oxi hóa, vừa là chất khử. 
+Answer D: không là chất oxi hóa, không là chất khử. 
+Hint:  Br từ số oxi hóa 0 xuống -1 → Br2 là chất oxi hóa; S từ +4 lên S+6 → SO2 là chất khử.  
+Question: 45:  [0H5-1] Phương pháp điều chế khí clo trong công nghiệp là 
+Answer A: Cho HCl tác dụng với chất oxi hóa mạnh. 
+Answer B: Nhiệt phân muối clorua kém bền. 
+Answer C: Điện phân dung dịch NaCl, màng ngăn xốp. 
+Answer D: Điện phân nóng chảy muối clorua. 
+Hint:  Phương pháp điều chế Cl2 trong công nghiệp: Điện phân dung dịch NaCl màng ngăn xốp: 2NaCl + 2H2O → 2NaOH + Cl2 + H2.  
+Question: 46:  [0H5-1]Nguyên tắc điều chế flo là 
+Answer A: Dùng chất oxi hóa mạnh oxi hóa muối florua. 
+Answer B: Dùng dòng điện oxi hóa muối florua. 
+Answer C: Cho HF tác dụng với chất oxi hóa mạnh. 
+Answer D: Dùng chất có chứa F để nhiệt phân ra F2. 
+Hint:  Do F- không bị oxi hóa bởi các chất oxi hóa thông thường nên chỉ có thể dùng dòng điện oxi hóa muối florua để điều chế flo.  
+Question: 47:  [0H5-1]Phương pháp nào dưới đây được dùng để điều chế khí F2 trong công nghiệp 
+Answer A: Oxi hóa muối florua. 
+Answer B: Dùng halogen khác đẩy flo ra khỏi muối. 
+Answer C: Điện phân hỗn hợp KF và HF ở thể lỏng. 
+Answer D: Không có phương pháp nào. 
+Hint:  Để điều chế F2 trong công nghiệp, người ta điện phân nóng chảy hỗn hợp KF và HF, hỗn hợp đó ở thể lỏng (thể lỏng khác dung dịch).  
+Question: 48:  [0H5-1]Phản ứng được dùng để điều chế Br2 trong công nghiệp là 
+Answer A: 2AgBr → 2Ag + Br2. 
+Answer B: 2HBr + Cl2 → 2HCl + Br2. 
+Answer C: 2NaBr + Cl2 → 2NaCl + Br2. 
+Answer D: 2H2SO4 + 4KBr + MnO2 → 2K2SO4 + MnBr2 + Br2 + 2H2O. 
+Hint:  Trong công nghiệp, sau khi lấy muối ăn từ nước biển, phần còn lại chứa nhiều muối brom của natri và kali, người ta sục khí clo qua dung dịch muối đó sẽ thu được brom.  
+Question: 49:  [0H5-1]Nguồn chủ yếu để điều chế brom trong công nghiệp là 
+Answer A: rong biển. 
+Answer B: nước biển. 
+Answer C: muối mỏ. 
+Answer D: tảo biển. 
+Hint:  I2 được điều chế từ tro rong biển. Br2 được chiều chế từ nước biển.  
+Question: 50:  [0H5-1]Nguồn chủ yếu để điều chế iot trong công nghiệp là 
+Answer A: rong biển. 
+Answer B: nước biển. 
+Answer C: muối mỏ. 
+Answer D: tảo biển. 
+Hint:  Hàm lượng Iot trong nước đại dương là 6.10-6%; trong tro rong biển là 6.10-2%, nên nguồn chủ yếu để điều chế iot trong công nghiệp là rong biển.  
+Question: 51:  [0H5-1] Để loại hơi nước có lẫn trong khí Cl2, ta dẫn hỗn hợp khí qua 
+Answer A: CaO khan. 
+Answer B: Dung dịch NaOH. 
+Answer C: Dung dịch NaCl đặc. 
+Answer D: H2SO4 đặc. 
+Hint:  Cl2 sẽ tác dụng với CaO và dung dịch NaOH nên 2 chất này không được dung dịch NaCl đặc hút nước kém nên cũng không được.   

@@ -2,12 +2,12 @@ const fs = require("fs");
 const pdf = require("pdf-parse");
 const nlp = require("compromise");
 
-const path = "./pdf/tienganh.pdf";
+const path = "./pdf/test.pdf";
 
 function render_page(pageData) {
   let render_options = {
-    normalizeWhitespace: true,
-    disableCombineTextItems: false
+    normalizeWhitespace: false,
+    disableCombineTextItems: true
   };
 
   return pageData.getTextContent(render_options).then(function(textContent) {
@@ -37,46 +37,33 @@ const scanText = () => {
   });
 };
 
-// const handleText = str => {
-//   const questionList = str.split(/Question|Câu[ ]\d{1,3}[.|:]/);
-//   let s = "";
-
-//   questionList.map((text, index) => {
-//     const content = text.split(/[A-Z][.][ ]/);
-//     console.log("Question", index, content[0], "\n");
-//     s += "Question" + ' ' + index + ':' + content[0] + "\n";
-//     content.slice(1).map((cont, index) => {
-//       console.log(`Answer ${String.fromCharCode(index + 65)}:`, cont);
-//       s += `Answer ${String.fromCharCode(index + 65)}:` + cont;
-//     });
-//     console.log("\n");
-//     s += "\n";
-//   });
-//   fs.writeFileSync("./data.json", s);
-// };
-
 const handleText = str => {
   const questionList = str.split("Mark the letter A, B, C or D ");
-
+  let s = "";
   questionList.map((text, index) => {
-    const group = text.split(/(?:Question[ ]|Câu[ ])/);
-    console.log(
-      "Type: Mark the letter A, B, C or D ",
-      group[0].normalize("NFKD"),
-      "\n"
-    );
+    const group = text.split(/Question[ ]|Câu[ ]/);
     group.slice(1).map((cont, index) => {
-      const content = cont.split(/[A-Z][.][ ]/);
-      console.log(`Question: ${content[0].normalize("NFKD")}`);
+      const content = cont.split(/[A-D][.][ ]/);
+      s += `Question: ${content[0].replace(/\n/g, "")}\n`;
       content.slice(1).map((ans, index) => {
-        console.log(
-          `Answer ${String.fromCharCode(index + 65)}:`,
-          ans.normalize("NFKD")
-        );
+        if (index != content.length - 2) {
+          s +=
+            `Answer ${String.fromCharCode(index + 65)}: ` +
+            ans.replace(/\n/g, "") +
+            "\n";
+        } else {
+          const hint = ans.split("Hướng dẫn giải");
+          s +=
+            `Answer ${String.fromCharCode(index + 65)}: ` +
+            hint[0].replace(/\n/g, "") +
+            "\n";
+          if (hint[1])
+            s += `Hint: ${hint[1].replace(/\n/g, "")} \n`;
+        }
       });
     });
-    console.log("\n");
   });
+  fs.writeFileSync("./data.txt", s);
 };
 
 scanText(path);
