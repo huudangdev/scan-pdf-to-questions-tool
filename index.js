@@ -28,7 +28,7 @@ function getPageText(pageNum, PDFDocumentInstance) {
  * Extract the test from the PDF
  */
 
-var PDF_URL = "./pdf/tienganh.pdf";
+var PDF_URL = "./pdf/hoa.pdf";
 PDFJS.getDocument(PDF_URL).then(
   function(PDFDocumentInstance) {
     //var totalPages = PDFDocumentInstance.numPages;
@@ -48,7 +48,8 @@ PDFJS.getDocument(PDF_URL).then(
 );
 
 const handleText = str => {
-  
+  console.log(str);
+
   const questionList = str.split(/(?:Question[ ]?|Câu[ ]?)(?:[0-9]+)[.|:][ ]/);
 
   let s = "";
@@ -57,8 +58,7 @@ const handleText = str => {
 
   questionList.map((text, index) => {
     const mark = text.match(/(Mark the letter A, B, C or D(.*))/)
-    // console.log('mark', index, Array.isArray(mark) && mark[0])
-    const content = text.split(/[A-Z][.][ ]/);
+    const content = text.split(/[A-Z][.][ ]|[ ][A-Z][ ][ ][.]/);
     console.log("Question", index, content[0], "\n");
     s += "Question" + ' ' + index + ':' + content[0] + "\n";
     content.slice(1).map((cont, index) => {
