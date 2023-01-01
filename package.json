@@ -13,7 +13,7 @@
     "pdf-parse": "^1.1.1",
     "pdf.js": "^0.1.0",
     "pdfjs": "^2.3.2",
-    "pdfjs-dist": "^2.2.228",
+    "pdfjs-dist": "^2.16.105",
     "uuid": "^3.3.3"
   },
   "devDependencies": {},
